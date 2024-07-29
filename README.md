@@ -65,11 +65,3 @@ These metrics demonstrate the model's ability to accurately predict customer rep
 ## Results
 
 The neural network model successfully identifies customers who are likely to make repeat purchases. This enables the audiobook company to target its marketing efforts more effectively, optimizing advertising expenditures and improving customer retention.
-
-## Usage
-
-To use this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/audiobook-repurchase-prediction.git
